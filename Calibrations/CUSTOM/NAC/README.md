@@ -4,7 +4,7 @@
 
 | Zone | Detail | Reason |
 |--|--|--|
-| 010C | Calibration_Fct_ENTREE_VIDEO | Have to be zeroed on Wave3/4 to avoid color issues |
+| 010C | Calibration_Fct_ENTREE_VIDEO | Have to be zeroed on Wave3/4 to avoid color issues: [NTSC] / PAL |
 | FFF2 | N/A | Better background effect |
 
 ### Added
